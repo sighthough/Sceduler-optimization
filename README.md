@@ -3,8 +3,10 @@ this is a sceduler optimization so that it runs smooth while still saving power 
 
 *Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and Gemini 3.6*
 
-In this repository you will find the code for the sceduler to work for windows and linux kernels but also a .ps1 file you can
-test on a windows pc with powershell or the updated terminal that is powershell anyway
+In this repository you will find the code for the sceduler to work for windows and linux kernels
+(warning! vibe coded and untested!)
+but also a .ps1 file you can test on a windows pc with powershell or the updated terminal that is powershell anyway
+(notion! vibe coded and tested ! )
 to test the .ps1 file what you need to do is run a powershell or terminal as administator
 then paste  
 
