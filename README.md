@@ -19,8 +19,7 @@ and it will run sceduling everything so you can test it out yourselves , tho kno
 
 
 
-
-
+```text
 +-------------------------------------------------------+
 |             SCHEDULER LOOP (Every 250ms)              |
 +-------------------------------------------------------+
@@ -131,3 +130,4 @@ and it will run sceduling everything so you can test it out yourselves , tho kno
 +-------------------------------------------------------+
 | Exit Cleanly & Output Success                         |
 +-------------------------------------------------------+
+```
