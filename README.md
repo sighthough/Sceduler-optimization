@@ -17,7 +17,6 @@ with a lil cd magic you get there and then to run the script it should be like
 
 and it will run sceduling everything so you can test it out yourselves , tho know its performance will probably increase once the big boys implement it
 
-(Ctrl + C)
 
 +-----------------------------------------------------------------------------------+
 |                            SCHEDULER LOOP (Every 250ms)                            |
