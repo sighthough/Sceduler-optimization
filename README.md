@@ -18,8 +18,9 @@ with a lil cd magic you get there and then to run the script it should be like
 and it will run sceduling everything so you can test it out yourselves , tho know its performance will probably increase once the big boys implement it
 
 
+
 +-----------------------------------------------------------------------------------+
-|                            SCHEDULE LOOP (Every 250ms)                            |
+|                            SCHEDULER LOOP (Every 250ms)                            |
 +-----------------------------------------------------------------------------------+
                                           |
                                           v
@@ -45,8 +46,7 @@ and it will run sceduling everything so you can test it out yourselves , tho kno
         +---------------+---------------+                   v
                         |                   +-------------------------------+
                         v                   | Sleep 2.0s & Retry Search     |
-        +-------------------------------+   +-------------------------------+
-        | Scaled Workload Budget (0-5ms)|
+        | Scaled Workload Budget (0-5ms)|   +-------------------------------+
         +---------------+---------------+
                         |
                         v
